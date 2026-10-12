@@ -1,4 +1,4 @@
-## Black Amethyst
+# Black Amethyst
 
 ![Screenshot](screenshots/Screenshot.jpg)
 
@@ -8,10 +8,6 @@ Staying in line with Obsidian's black and purple aesthetic the Black Amethyst th
 
 Dark mode only theme.
 
-# Licence
-
-This theme is released under the MIT Licence
-
 # Font Credits
 
 **Space Grotesk**
@@ -19,6 +15,10 @@ This theme is released under the MIT Licence
 Copyright 2020 The Space Grotesk Project Authors
 (https://github.com/floriankarsten/space-grotesk)
 Licensed under the [SIL Open Font License, Version 1.1]
+
+# Licence
+
+This theme is released under the MIT Licence
 
 # Donations
 
