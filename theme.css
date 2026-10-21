@@ -59,7 +59,7 @@ svg * {
   --color-base-35: #22203a;
   --color-base-40: #5d5699;
   --color-base-50: #8780a3;
-  --color-secondary-4: #060508;
+  --color-secondary-4: #0d0a11;
   --color-secondary-5: #110f16;
   --divider-color: #1e1c31;
   --divider-color-hover: #5d5699;
@@ -120,10 +120,11 @@ svg * {
 .mobile-navbar-actions {
   --icon-size: 26px;
   --icon-stroke: var(--icon-l-stroke-width);
-  --icon-color: #9e98cf;
+  --icon-color: #b1aae6;
   --icon-color-hover: #b5afe0;
   --icon-color-active: #b5afe0;
   --icon-color-focus: #b5afe0;
+  
   display: flex;
   align-items: center;
   justify-content: space-between;
