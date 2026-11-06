@@ -1,6 +1,6 @@
 # Black Amethyst
 
-![Screenshot](screenshots/Main Screenshot 1.2.jpg)
+![Screenshot](screenshots/Main-Screenshot-1.2.jpg)
 
 # Theme Description
 
