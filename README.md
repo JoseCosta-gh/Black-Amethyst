@@ -1,10 +1,11 @@
 # Black Amethyst
 
-![Screenshot](screenshots/Screenshot.jpg)
+![Screenshot](screenshots/Main Screenshot 1.2.jpg)
 
 # Theme Description
 
-Staying in line with Obsidian's black and purple aesthetic the Black Amethyst theme is specifically designed to deliver a more visually pleasing experience. All the colors used in the theme are harmonious and fit well together, keeping an analogous color scheme throughout.
+The Black Amethyst theme is specifically designed to deliver a more visually pleasing alternative to the default dark mode while staying in the spirit of Obsidian's black and purple aesthetic.
+The theme keeps an analogous color scheme throughout and all the colors used are harmonious and fit well together.
 
 Dark mode only theme.
 
