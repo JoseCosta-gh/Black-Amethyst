@@ -21,6 +21,6 @@ Licensed under the [SIL Open Font License, Version 1.1]
 
 This theme is released under the MIT Licence
 
-# Donations
+# Donations / Tips
 
 [Kofi](https://ko-fi.com/josecostakf)
